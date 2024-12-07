@@ -57,9 +57,6 @@ def remove(root, key):
 
     return root
 
-
-
-# Testando o código (com os seus valores)
 root = None
 keys = [45, 25, 65, 20, 30, 60, 70]
 for key in keys:
